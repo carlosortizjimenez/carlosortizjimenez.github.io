@@ -7,7 +7,7 @@ This is my personal website with an introduction about myself as well as a list 
 In the adresse bar search for carlosortiz.github.io and once the page is loaded you can navigate through my page and get to know me along the way. 
 
 ## Roadmap of future imporovments
-Adding hands that reach in the direction of the mouse is the next improvement down the line.
+Update the website with more projects.
 
 ## License
 Copyright (c) 2021 Juan Carlos Ortiz-Jimenez
